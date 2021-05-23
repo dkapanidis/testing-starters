@@ -4,6 +4,6 @@ Run karate features
 
 
 ```shellsession
-java -jar karate.jar features/
+./karate features/
 ```
 
